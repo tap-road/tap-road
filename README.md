@@ -1,4 +1,4 @@
-<h1><span>How to play Tap Road</span></h1>
+<h1><span>Tap Road Unblocked</span></h1>
 <h2>Tap Road: Master the Art of Endless Running</h2>
 <p>Dive into the electrifying world of Tap Road, where razor-sharp reflexes and perfect timing determine how far your ball can roll. This addictive arcade game challenges you to navigate a speeding sphere through an obstacle-filled neon highway, with one simple rule: don&rsquo;t hit anything!</p>
 <h2>Where to play Tap Road?</h2>
