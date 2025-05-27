@@ -3,6 +3,7 @@
 <p>Dive into the electrifying world of Tap Road, where razor-sharp reflexes and perfect timing determine how far your ball can roll. This addictive arcade game challenges you to navigate a speeding sphere through an obstacle-filled neon highway, with one simple rule: don&rsquo;t hit anything!</p>
 <h2>Where to play Tap Road?</h2>
 <h3>Play Tap Road online, for free at the official website: <a href="https://taproad.io">https://taproad.io</a>!</h3>
+<img src="https://github.com/tap-road/.github/blob/main/tap%20road%20io.jpg?raw=true">
 <h2>Gameplay Essentials: How to Go the Distance</h2>
 <p><strong>1. The Core Challenge</strong></p>
 <ul>
